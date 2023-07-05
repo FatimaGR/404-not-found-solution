@@ -44,4 +44,5 @@ Create a 404 not found page following the design. The page should be responsive.
 ## Author
 
 - Website - [Fatima Gallardo](https://porfolio-website-gules.vercel.app)
-- GitHub - [@FatimaGR](https://{github.com/FatimaGR})
+- GitHub - [@FatimaGR](https://github.com/FatimaGR)
+- Dev challenges - [@FatimaGR](https://devchallenges.io/portfolio/FatimaGR)
